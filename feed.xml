@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://feeds.transistor.fm/stylesheet.xsl" type="text/xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:podcast="https://podcastindex.org/namespace/1.0">
+  <channel>
+    <atom:link rel="self" type="application/atom+xml" href="https://feeds.transistor.fm/broker-consulting-finance-reality-spolu" title="MP3 Audio"/>
+    <atom:link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
+    <title>Broker Consulting - Finance. Reality. Spolu.</title>
+    <generator>Transistor (https://transistor.fm)</generator>
+    <itunes:new-feed-url>https://feeds.transistor.fm/broker-consulting-finance-reality-spolu</itunes:new-feed-url>
+    <description>Broker Consulting - Finance. Reality. Spolu.</description>
+    <copyright>© 2022 Broker Consulting</copyright>
+    <podcast:locked owner="info@bcas.cz">no</podcast:locked>
+    <language>cs</language>
+    <pubDate>Fri, 16 Dec 2022 14:37:03 +0100</pubDate>
+    <lastBuildDate>Tue, 27 Dec 2022 10:15:38 +0100</lastBuildDate>
+    <link>https://podcast.bcas.cz/</link>
+    <image>
+      <url>https://images.transistor.fm/file/transistor/images/show/36965/full_1670595104-artwork.jpg</url>
+      <title>Broker Consulting - Finance. Reality. Spolu.</title>
+      <link>https://podcast.bcas.cz/</link>
+    </image>
+    <itunes:category text="Business"/>
+    <itunes:type>episodic</itunes:type>
+    <itunes:author>Broker Consulting</itunes:author>
+    <itunes:image href="https://images.transistor.fm/file/transistor/images/show/36965/full_1670595104-artwork.jpg"/>
+    <itunes:summary>Broker Consulting - Finance. Reality. Spolu.</itunes:summary>
+    <itunes:subtitle>Broker Consulting - Finance.</itunes:subtitle>
+    <itunes:keywords></itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Broker Consulting</itunes:name>
+    </itunes:owner>
+    <itunes:complete>No</itunes:complete>
+    <itunes:explicit>No</itunes:explicit>
+    <item>
+      <title>Využijme příležitostí v dluhopisech i v aktuálních úrokových sazbách</title>
+      <itunes:episode>2</itunes:episode>
+      <itunes:title>Využijme příležitostí v dluhopisech i v aktuálních úrokových sazbách</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">978fbbf5-cecc-4883-988e-5640e1fc6f15</guid>
+      <link>https://share.transistor.fm/s/ef7686a1</link>
+      <description>Hlavní analytik Broker Consulting mluví o aktuální situaci a příležitostech, které nabízí. Dluhopisové fondy nabírají na dříve vytracené popularitě. Vysoké úrokové sazby působí negativně v oblasti hypoték, ale nabízí atraktivní zhodnocení v investicích. Čeho se v tomto okamžiku ekonomického cyklu vyvarovat a čemu se naopak věnovat? Investice do nemovitostí ano či ne? Úloha profesionálního konzultanta ve financích.</description>
+      <pubDate>Fri, 16 Dec 2022 14:37:03 +0100</pubDate>
+      <author>Broker Consulting</author>
+      <enclosure url="https://media.transistor.fm/ef7686a1/6dc7a226.mp3" length="85765680" type="audio/mpeg"/>
+      <itunes:author>Broker Consulting</itunes:author>
+      <itunes:image href="https://images.transistor.fm/file/transistor/images/episode/1138114/full_1671197823-artwork.jpg"/>
+      <itunes:duration>2142</itunes:duration>
+      <itunes:summary>Hlavní analytik Broker Consulting mluví o aktuální situaci a příležitostech, které nabízí. Dluhopisové fondy nabírají na dříve vytracené popularitě. Vysoké úrokové sazby působí negativně v oblasti hypoték, ale nabízí atraktivní zhodnocení v investicích. Čeho se v tomto okamžiku ekonomického cyklu vyvarovat a čemu se naopak věnovat? Investice do nemovitostí ano či ne? Úloha profesionálního konzultanta ve financích.</itunes:summary>
+      <itunes:subtitle>Hlavní analytik Broker Consulting mluví o aktuální situaci a příležitostech, které nabízí. Dluhopisové fondy nabírají na dříve vytracené popularitě. Vysoké úrokové sazby působí negativně v oblasti hypoték, ale nabízí atraktivní zhodnocení v investicích. Č</itunes:subtitle>
+      <itunes:keywords>Úrokové sazby, repo sazby, hypotéky, investice, ekonomický cyklus, finanční konzultant, finanční analytik,</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Guest" href="https://podcast.bcas.cz/people/martin-novak" img="https://images.transistor.fm/file/transistor/images/person/426e713d-89db-4c62-a7e8-ab17ec07c2ad/1672129097-image.jpg">Martin Novák</podcast:person>
+    </item>
+    <item>
+      <title>Investovat do nemovitostí i v dnešní době?</title>
+      <itunes:episode>1</itunes:episode>
+      <itunes:title>Investovat do nemovitostí i v dnešní době?</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <guid isPermaLink="false">3ba6b746-f839-4087-8bc0-38ff155780da</guid>
+      <link>https://share.transistor.fm/s/b4096648</link>
+      <description>Realitní specialista Jakub Krčmář hovoří o výhodnosti investování do nemovitostí. Jsou vysoké ceny nemovitostí a vysoké úrokové sazby brzdou pro další investování do nemovitostí. Jakou váhu má dnes nákup nebo prodej nemovitosti? Přestává být pozice realitního makléře populární?</description>
+      <pubDate>Mon, 12 Dec 2022 14:13:44 +0100</pubDate>
+      <author>Broker Consulting</author>
+      <enclosure url="https://media.transistor.fm/b4096648/b727aa91.mp3" length="82541618" type="audio/mpeg"/>
+      <itunes:author>Broker Consulting</itunes:author>
+      <itunes:image href="https://images.transistor.fm/file/transistor/images/episode/1131835/full_1670856388-artwork.jpg"/>
+      <itunes:duration>2063</itunes:duration>
+      <itunes:summary>Realitní specialista Jakub Krčmář hovoří o výhodnosti investování do nemovitostí. Jsou vysoké ceny nemovitostí a vysoké úrokové sazby brzdou pro další investování do nemovitostí. Jakou váhu má dnes nákup nebo prodej nemovitosti? Přestává být pozice realitního makléře populární?</itunes:summary>
+      <itunes:subtitle>Realitní specialista Jakub Krčmář hovoří o výhodnosti investování do nemovitostí. Jsou vysoké ceny nemovitostí a vysoké úrokové sazby brzdou pro další investování do nemovitostí. Jakou váhu má dnes nákup nebo prodej nemovitosti? Přestává být pozice realit</itunes:subtitle>
+      <itunes:keywords>Investice do nemovitostí, úrokové sazby, hypotéky, ceny nemovitostí, Jakub Krčmář, finance, reality</itunes:keywords>
+      <itunes:explicit>No</itunes:explicit>
+      <podcast:person role="Guest" href="https://krcmarjakub.cz/" img="https://images.transistor.fm/file/transistor/images/person/b8444cdc-6252-48b2-9230-360293562dff/1672129060-image.jpg">Jakub Krčmář</podcast:person>
+    </item>
+  </channel>
+</rss>
+
